@@ -1,2 +1,4 @@
+## S1. Everything Is Local
+### Все работает локально
 git init
 git clone <url>
